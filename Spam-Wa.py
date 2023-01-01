@@ -147,7 +147,7 @@ def banner_anjay_subs_mr_dark():
     print ("    > Version : 1.6")
     print ("")
     print ("    1 . Spam Sms (DuniaGames) ")
-    print ("    2 . Spam Call (Jagreward) ")
+    print ("    2 . Spam Call (SpamBrute) ")
     print ("    3 . Spam Whatsapp (Tokopedia) ")
     print ("")
     mr_dark_input()
